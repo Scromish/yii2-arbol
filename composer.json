@@ -1,0 +1,18 @@
+{
+	"name": "scromish/yii2-arbol",
+	"description": "Generador de árboles netset con gtreetable",
+	"type": "yii2-extension",
+	"keywords": ["yii2","extension"],
+	"license": "LGPL-3.0+",
+	"authors": [
+		{
+			"name": "Miguel Ángel Del Río",
+			"email": "madra77@hotmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"scromish\\arbol\\": ""
+		}
+	}
+}
